@@ -53,7 +53,7 @@
     "@vscode/win32-app-container-tokens": "^0.1.0",
     "acorn": "^8.7.0",
     "acorn-loose": "^8.3.0",
-    "astring": "^1.8.1",
+    "astring": "^1.8.3",
     "color": "^4.2.1",
     "data-uri-to-buffer": "^3.0.1",
     "default-browser": "^2.0.1",
