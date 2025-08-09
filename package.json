@@ -65,7 +65,7 @@
     "inversify": "^6.0.1",
     "js-xxhash": "^1.0.4",
     "jsonc-parser": "^3.0.0",
-    "linkifyjs": "^3.0.5",
+    "linkifyjs": "^4.3.2",
     "micromatch": "^4.0.5",
     "path-browserify": "^1.0.1",
     "preact": "^10.6.6",
